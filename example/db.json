@@ -9,6 +9,18 @@
       "id": 2,
       "title": "Second Article",
       "content": "This is also an example."
+    },
+    {
+      "id": 3,
+      "title": "Javascipt DOM",
+      "content": "DOM is cool stuffs it helps in interacting with webpage"
+    },
+    {
+      "id": 4,
+      "title": "Moringa With Flatiron Content",
+      "content": "A game changing collaboration that's setting kenyas Tech system"
     }
+
+
   ]
 }
